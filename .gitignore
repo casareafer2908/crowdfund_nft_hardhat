@@ -6,7 +6,9 @@ __pycache__/
 ## ignore dev resources
 node_modules/
 .idea/
-
+deployments/
+artifacts/
+cache/
 # C extensions
 *.so
 
