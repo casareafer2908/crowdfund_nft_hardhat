@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+## ignore dev resources
+node_modules/
+.idea/
+
 # C extensions
 *.so
 
